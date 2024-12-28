@@ -1,0 +1,6 @@
+[
+    { "id": 1, "title": "Luxury Beachfront Apartment", "location": "Miami", "price": 500000, "bedrooms": 2, "tags": ["beachfront", "luxury"] },
+    { "id": 2, "title": "Cozy Cottage in the Woods", "location": "Vermont", "price": 250000, "bedrooms": 3, "tags": ["nature", "quiet"] },
+    { "id": 3, "title": "Modern City Apartment", "location": "New York", "price": 800000, "bedrooms": 1, "tags": ["city", "modern"] }
+  ]
+  
